@@ -1,8 +1,8 @@
 # Brittany Williams
-  612 N 150 E  
-  Salem, UT 84653   
-  (918)770-3214   
-  brittanwilliams01@gmail.com
+  street  
+  city, county, zip  
+  (123) 456-7890   
+  ~~~@gmail.com
 
 ## Experience
   July 2022-PRESENT  
